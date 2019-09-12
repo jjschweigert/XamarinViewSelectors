@@ -69,7 +69,7 @@ namespace Views
                 new Models.Views.Template1_Key(),
                 new Models.Views.Template1_Key(),
                 new Models.Views.Template1_Key(),
-                new Models.Views.Template1_Key(),
+                new Models.Views.Template1_Key(), 
             };
 
             BindingContext = this;
